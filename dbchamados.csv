@@ -1,0 +1,7 @@
+Atendente,CNPJ,Título,Descrição,Status
+Marcelo Andrade,30.330.330/0009-66,Queda de Energia,"Após queda de energia, equipamentos não ligam.",Fechado
+Marcelo Andrade,02.200.200/0002-33,Tela Azul,"Por usar Windows, sistema travou. Informada a resetar windows",Fechado
+Marcelo Andrade,00.001.001/0001-10,Falha na Conexão,"Tentou realizar a venda, mas deu erro. Reconectou o aparelho e deu certo.",Fechado
+Gisla Sol,12.121.212/0001-12,Teste de Load,Testar salvar novo registro.,Fechado
+Nala Vanelopy,77.777.777/0007-77,Teste remover coluna,No primeiro salvamento veio com index. Agora removi.,Fechado
+Carlos Gomes,00.202.303/0003-03,Teste de diretório,Alterei o diretório padrão para onde estiver o .py.,Fechado
